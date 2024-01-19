@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* CSS */
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.color-1{
+    color: #0CB8B6;
+}
+
+.bg-color-1{
+    background-color: #0CB8B6;
+}
+.bg-color-1:hover{
+    background-color: #0a918f;
+}
+
+.border-1{
+    border: 1px solid rgba(0,0,0,.1);
+}

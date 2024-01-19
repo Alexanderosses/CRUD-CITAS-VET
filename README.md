@@ -1,9 +1,8 @@
+# CRUD-CITAS-VETERINARIA
 # Veterinaria App
-
 Este proyecto es una aplicación de citas veterinarias construida con React, Tailwind CSS y Vite. La aplicación permite gestionar citas para animales, implementando operaciones CRUD y almacenando la información en el `localStorage`.
 
 ## Características
-
 - **React:** Utilizamos la biblioteca React para construir la interfaz de usuario de manera eficiente y modular.
 - **Tailwind CSS:** El diseño y la estilización de la aplicación están basados en Tailwind CSS, facilitando la creación de estilos atractivos y responsivos.
 - **Vite:** Se ha utilizado Vite como herramienta de desarrollo para una experiencia de desarrollo rápida y eficiente.
@@ -19,8 +18,6 @@ Este proyecto es una aplicación de citas veterinarias construida con React, Tai
     Asegúrese de tener instalado Node.js en su sistema antes de ejecutar la aplicación.
 
 ## Instalación
-
 1. Clona el repositorio:
    git clone https://github.com/tuusuario/veterinaria-app.git
    cd veterinaria-app
-# CRUD-CITAS-VETERINARIA
