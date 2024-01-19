@@ -19,5 +19,5 @@ Este proyecto es una aplicación de citas veterinarias construida con React, Tai
 
 ## Instalación
 1. Clona el repositorio:
-   git clone https://github.com/tuusuario/veterinaria-app.git
+   git clone https://github.com/Alexanderosses/CRUD-CITAS-VETERINARIA.git
    cd veterinaria-app
